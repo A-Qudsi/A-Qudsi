@@ -16,7 +16,7 @@ Follow me as well on
 
 <a href="https://www.linkedin.com/in/adel-qudsi/">LinkedIn</a>
 
-AngelList
+<a href="https://angel.co/u/adel-qudsi">AngelList</a>
 
 Portfolio
 
