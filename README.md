@@ -18,5 +18,5 @@ Follow me as well on
 
 <a href="https://angel.co/u/adel-qudsi">AngelList</a>
 
-Portfolio
+<a href="https://AdelQudsi.com">Portfolio</a>
 
